@@ -2,7 +2,7 @@
 - 💙 I'm from Ukraine
 - 💛 I'm interested in Vue or pure JavaScript (HTML, CSS) projects
 - 🏆 I’m currently learning Vue, React JS and TypeScript
-- 💞️ I'm looking to collaborate on web-studios, companies, and startUps like a Front-end developer
+- 💞️ I'm looking to collaborate on web-studios, companies, and startUps like as a Front-end developer
 - 🌎 How to reach me: Telegram - https://t.me/ilchakxD, Gmail - ilchak12@gmail.com
 
 Thanks for reading this!
